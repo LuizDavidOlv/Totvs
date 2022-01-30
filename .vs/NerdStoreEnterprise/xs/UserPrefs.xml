@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{65BD96A1-E916-4BCA-A3E7-DB841F7DE168}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/web/NSE.WebApp.MVC/Program.cs">
+    <Files>
+      <File FileName="src/web/NSE.WebApp.MVC/appsettings.Development.json" Line="3" Column="42" />
+      <File FileName="src/web/NSE.WebApp.MVC/Configuration/DependencyInjectionConfig.cs" Line="19" Column="73" />
+      <File FileName="src/web/NSE.WebApp.MVC/Controllers/CatalogoController.cs" Line="1" Column="1" />
+      <File FileName="src/web/NSE.WebApp.MVC/Configuration/WebAppConfiguration.cs" Line="41" Column="51" />
+      <File FileName="src/web/NSE.WebApp.MVC/Program.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NerdStoreEnterprise" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="web" expanded="True">
+                <Node name="mvc" expanded="True">
+                  <Node name="NSE.WebApp.MVC" expanded="True">
+                    <Node name="Configuration" expanded="True" />
+                    <Node name="Controllers" expanded="True" />
+                    <Node name="appsettings.json" expanded="True" />
+                    <Node name="Program.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.web.mvc.NSE.WebApp.MVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
